@@ -1,0 +1,2 @@
+Hintergrund Grün: #baff00 rgb(186, 255, 0)
+Schrift: #222222 rgb(34, 34, 34)
