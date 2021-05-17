@@ -1,5 +1,11 @@
-Thanks for downloading this theme!
+HTML-Theme das etwas angepasst wurde und eine Karte integriert wurde für eine einfache statische Website. Die Karte wurde mit python erstellt: Siehe andere Repository.  
 
+https://www.robotik-in-sachsen.de/
+
+gehostet mit aws. 
+
+
+Contribution: 
 ## Other Useful Links
 
 **ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
